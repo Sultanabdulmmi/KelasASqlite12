@@ -1,0 +1,2 @@
+rootProject.name = "KelasASqlite"
+include ':app'
